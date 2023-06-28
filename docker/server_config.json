@@ -2,7 +2,7 @@
     "serverRoot": "http://localhost:8000",
     "port": 8000,
     "dbtype": "postgres",
-    "dbconfig": "postgresql://postgres:2ouBfKakMJboluYM@db.bbdllidisuhddflijwqt.supabase.co:5432/postgres",
+    "dbconfig": "postgresql://postgres:AMMsnLS6O5pCX0qy@db.usjcxphmhvzkvprofrqq.supabase.co:5432/postgres",
     "postgres_dbconfig": "dbname=postgres sslmode=disable",
     "useSSL": false,
     "webpath": "./pack",
